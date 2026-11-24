@@ -6,6 +6,10 @@ We are third-year Computer Science students. This project is part of our CS3 cla
 | --- | --- | --- |
 | Matthew M. Mortiga | Author | [Windowwhile](https://github.com/Windowwhile) |
 |Francis Josef M. Recinto | Collaborator | [fjvxxk](https://github.com/fjvxxk) |
+## Tools We Use
+* GitHub
+* VS Code
+* Discord
 ## Meeting Schedule
 | Day: | Time: | 
 | --- | --- | 
