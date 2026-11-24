@@ -10,6 +10,12 @@ We are third-year Computer Science students. This project is part of our CS3 cla
 * GitHub
 * VS Code
 * Discord
+## Meeting Schedule
+| Day: | Time: | 
+| --- | --- | 
+| Tuesday | 4:30 PM – 5:15 PM |
+| Thursday | 4:30 PM – 5:15 PM | 
+| Saturday | 10:00 AM – 10:45 AM | 
 ## Contact
 Ask us questions in the Issues tab.
 ## Learning Goals
