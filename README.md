@@ -1,6 +1,6 @@
 # Ok Team
 ## About
-We are third-year Computer Science students.
+We are third-year Computer Science students. This project is part of our CS3 class in 9-Lithium under Sir Kyle M. Enorio.
 ## Members
 | Member Name: | Role: | Github Username: |
 | --- | --- | --- |
