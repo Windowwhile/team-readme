@@ -1,4 +1,11 @@
 # Ok Team
+## Table Of Contents
+* [About](#about)
+* [Members](#members)
+* [Tools We Use](#tools-we-use)
+* [Meeting Schedule](#meeting-schedule)
+* [Contact](#contact)
+* [Learning Goals](learning-goals)
 ## About
 We are third-year Computer Science students. This project is part of our CS3 class in 9-Lithium under Sir Kyle M. Enorio.
 ## Members
